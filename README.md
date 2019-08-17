@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+bee > mee
+mee < duck
